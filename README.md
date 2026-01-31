@@ -54,6 +54,6 @@ and widely used in speech recognition and emotion detection.
 ## Author
 Shivanshu Pal  
 MSc Data Science  
-Aspiring PhD Researcher (Speech / Audio AI)
+Aspiring PhD Researcher (Speech / Audio AI) 
 Email: contactshiva7@gmail.com
 
